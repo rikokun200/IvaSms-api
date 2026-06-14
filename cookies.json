@@ -1,1 +1,14 @@
-#Your Json Formated Cookies Here
+
+  {
+    "domain": "www.ivasms.com",
+    "expirationDate": 1781469003.894564,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "ivas_sms_session",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6IjExNVY0N29FSGwrQWVhU2ttWlhrNUE9PSIsInZhbHVlIjoiVFg3eTFnM3NuMjJ4SzY2TStDWXpCdU1CUmU3VUt4ZTB0c0VBanJZRmJuY3U2Y2pUWElmRm80YTZmQ1BrcGs4RW1YcUVZV054MXlNcXZsRWpQUmg0VlRCV3gxTGJTWVIxaGM0bk9xdHd4K25lYThCQzcvRHcrck4zVDRqSFJUWjciLCJtYWMiOiJhMzllYTg0YmFkNDFlODJmYjlkYzUxYjUyNDQ5N2UwOGJkNDhmMTcyNTZiNjgxZmZhYTgwZTQ5M2YxM2IwZmRlIiwidGFnIjoiIn0%3D"
+  }
